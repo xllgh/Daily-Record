@@ -1,0 +1,21 @@
+﻿ERP:enterprise Resource planning
+
+Kubernetes:用于自动部署的工具集
+Kubernetes Clusters
+
+
+
+
+
+******************************
+planet:['plæn?t]星球，地球
+Outgrow:v 过度生长
+consistently:adv.一向；一贯地；始终如一地；一致地
+take advantage of:利用
+premise:[ˈpremɪsəz]房产；(企业,机构的)营业场所 前提；房屋；处所 on-Premises:在屋内；机房内；企业内
+effortlessly:adv 毫不费力的
+binpacking:装箱问题
+orchestration:[ˌɔrkɪ'streɪʃn]为管弦乐配器；和谐的安排[组织,结合]；编排；配器法；编制
+walkthrough:n.演练；【计】演示
+interactive:adj.合作的；相互影响的；互相配合的；交互式的  interactive online tutorial
+coordinate:n.坐标；（颜色协调的）配套服装v.协调；使协调；使相配合；使（身体各部位）动作协调adj.同等的；配合的；【语】对等的；【数】坐标的
